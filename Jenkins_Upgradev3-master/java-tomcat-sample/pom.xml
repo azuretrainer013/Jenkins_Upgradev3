@@ -40,7 +40,8 @@
         </executions>
       </plugin>
     </plugins>
-    <distributionManagement>
+      </build>
+  <distributionManagement>
     <repository>
         <id>central</id>
         <name>a0rbsocarvfji-artifactory-primary-0-releases</name>
@@ -52,5 +53,4 @@
         <url>https://hbaer.jfrog.io/artifactory/hbaer-libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
-  </build>
 </project>
