@@ -47,7 +47,7 @@
         <name>a0rbsocarvfji-artifactory-primary-0-releases</name>
         <url>https://hbaer.jfrog.io/artifactory/hbaer-libs-release</url>
     </repository>
-    <snapshotReository>
+    <snapshotRepository>
         <id>snapshots</id>
         <name>a0rbsocarvfji-artifactory-primary-0-snapshots</name>
         <url>https://hbaer.jfrog.io/artifactory/hbaer-libs-snapshot</url>
