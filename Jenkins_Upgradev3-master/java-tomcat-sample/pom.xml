@@ -9,9 +9,9 @@
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
-      <groupId>junit-HBAER-GID</groupId>
-      <artifactId>junit-HBAER-AID</artifactId>
-      <version>1.0.0-SNAPSHOT</version>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
@@ -47,7 +47,7 @@
         <name>a0rbsocarvfji-artifactory-primary-0-releases</name>
         <url>https://hbaer.jfrog.io/artifactory/hbaer-libs-release</url>
     </repository>
-    <snapshotRepository>
+    <snapshotReository>
         <id>snapshots</id>
         <name>a0rbsocarvfji-artifactory-primary-0-snapshots</name>
         <url>https://hbaer.jfrog.io/artifactory/hbaer-libs-snapshot</url>
